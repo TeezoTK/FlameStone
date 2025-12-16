@@ -139,14 +139,6 @@ export default function Footer() {
             <i className="ri-fire-fill text-flame-orange"></i>
             <span>in Buckinghamshire</span>
             <span className="mx-2">|</span>
-            <a 
-              href="https://readdy.ai/?origin=logo" 
-              target="_blank" 
-              rel="noopener noreferrer"
-              className="hover:text-flame-orange transition-colors duration-300 cursor-pointer"
-            >
-              Website Builder
-            </a>
           </div>
         </div>
       </div>
